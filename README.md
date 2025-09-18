@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&text=Howdy%20Partner👋&fontColor=FFFFFF)
 
 <a href="https://www.linkedin.com/in/dennis-han-660614333/">
-  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/bc723429-ed00-4aaf-8315-9a0a6b54ab33"/>
+  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/bc723429-ed00-4aaf-8315-9a0a6b54ab33"/>
 </a>
 
 <!--
