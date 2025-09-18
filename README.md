@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&text=Howdy%Partner👋)
+![header](https://capsule-render.vercel.app/api?type=venom&text=Howdy%20Partner👋&textBg=true)
 
 <!--
 **kaungzhan/kaungzhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
