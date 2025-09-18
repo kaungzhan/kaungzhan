@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&text=Howdy%20Partner👋&fontColor=FFFFFF)
 
-![Snake animation](https://github.com/kaungzhan/kaungzhan/blob/output/github-contribution-grid-snake.svg)
+[![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaungzhan)](https://github.com/kaungzhan/github-readme-stats)
 
 <!--
 **kaungzhan/kaungzhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
